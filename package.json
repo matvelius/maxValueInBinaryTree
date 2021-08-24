@@ -1,0 +1,12 @@
+{
+  "name": "traversebinarytree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my_solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
